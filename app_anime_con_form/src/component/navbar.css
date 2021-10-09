@@ -1,0 +1,28 @@
+.header {
+  background: linear-gradient(180deg,#f52f35,#6e070c);
+  color: white;
+  height: 10vh;
+  font-size: 20px;
+}
+.header div {
+  padding-top: 1.5%;
+}
+.nav {
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+}
+.ul {
+  width: 250px;
+  display: flex;
+  justify-content: space-around;
+  align-content: center;
+  list-style: none;
+}
+.link {
+  text-decoration: none;
+  color: rgb(14, 11, 11);
+}
+.link {
+  color: inherit;
+}
